@@ -6,7 +6,7 @@
         "appV2": {
           "id": "271860f7-6b9b-48e7-b10f-91fe5ecaf00c",
           "type": "module",
-          "name": "Login form",
+          "name": "Login form 1",
           "slug": "271860f7-6b9b-48e7-b10f-91fe5ecaf00c",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -18,7 +18,7 @@
           "workflowEnabled": false,
           "createdAt": "2024-03-01T18:46:51.889Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2024-03-01T18:46:51.888Z",
+          "updatedAt": "2024-03-13T07:18:52.453Z",
           "editingVersion": {
             "id": "ac02f045-9f34-4836-9f10-345f8f8cdf33",
             "name": "v1",
