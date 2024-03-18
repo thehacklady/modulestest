@@ -6,7 +6,7 @@
         "appV2": {
           "id": "bbcd72f1-d847-4e13-bb54-466153d2a55c",
           "type": "front-end",
-          "name": "tolhh",
+          "name": "tolhh2",
           "slug": "bbcd72f1-d847-4e13-bb54-466153d2a55c",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -18,7 +18,7 @@
           "workflowEnabled": false,
           "createdAt": "2024-03-14T11:09:18.144Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2024-03-14T11:09:18.144Z",
+          "updatedAt": "2024-03-18T10:05:03.909Z",
           "editingVersion": {
             "id": "b7f77312-d56c-495f-a712-f32d0089949d",
             "name": "v1",
