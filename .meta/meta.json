@@ -54,5 +54,13 @@
     "lastpushDate": "2024-04-12T06:23:14.434Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
+  },
+  "0d5f2dea-d59f-4952-bfd5-81ef227bdd0f": {
+    "gitAppName": "AnotherApp",
+    "lastCommitMessage": "yy",
+    "gitVersionId": "98cd9d47-4e3b-4b88-b15d-16928d2cde4a",
+    "lastpushDate": "2024-04-12T06:24:21.909Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "The Developer"
   }
 }
