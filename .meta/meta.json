@@ -38,5 +38,13 @@
     "lastpushDate": "2024-04-11T21:17:18.842Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
+  },
+  "5ce46fcb-983e-4b7b-94b6-b1b409c59437": {
+    "gitAppName": "workflowUsingApp",
+    "lastCommitMessage": "git-sync-test",
+    "gitVersionId": "f28b50ca-e120-4895-930b-4c013a0f8a55",
+    "lastpushDate": "2024-04-12T06:21:29.724Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "The Developer"
   }
 }
